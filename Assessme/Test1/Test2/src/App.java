@@ -1,5 +1,10 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("SHOPPING LIST\n\t- Milk\n\t\t> Semi-skimmed\n\t\t> Medium\n\t- Eggs\n\t\t> Free-range\n\t- Bread"); 
+
+    public static void main(String[] args) {
+        System.out.println("\n\nThe");
+        System.out.println("\tCake");
+        System.out.print("Is");
+        System.out.println("\t\tA");
+        System.out.print("\tLie.");
     }
 }
